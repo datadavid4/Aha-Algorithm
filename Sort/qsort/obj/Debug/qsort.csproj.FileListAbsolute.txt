@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\qsort\bin\Debug\qsort.exe.config
+C:\Users\Davis-School\Desktop\qsort\bin\Debug\qsort.exe
+C:\Users\Davis-School\Desktop\qsort\bin\Debug\qsort.pdb
+C:\Users\Davis-School\Desktop\qsort\obj\Debug\qsort.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\qsort\obj\Debug\qsort.exe
+C:\Users\Davis-School\Desktop\qsort\obj\Debug\qsort.pdb

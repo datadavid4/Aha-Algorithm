@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\DFS\bin\Debug\DFS.exe.config
+C:\Users\david\Desktop\DFS\bin\Debug\DFS.exe
+C:\Users\david\Desktop\DFS\bin\Debug\DFS.pdb
+C:\Users\david\Desktop\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\DFS\obj\Debug\DFS.exe
+C:\Users\david\Desktop\DFS\obj\Debug\DFS.pdb
+C:\Users\david\Desktop\啊哈算法\DFS\bin\Debug\DFS.exe.config
+C:\Users\david\Desktop\啊哈算法\DFS\bin\Debug\DFS.exe
+C:\Users\david\Desktop\啊哈算法\DFS\bin\Debug\DFS.pdb
+C:\Users\david\Desktop\啊哈算法\DFS\obj\Debug\DFS.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\啊哈算法\DFS\obj\Debug\DFS.exe
+C:\Users\david\Desktop\啊哈算法\DFS\obj\Debug\DFS.pdb

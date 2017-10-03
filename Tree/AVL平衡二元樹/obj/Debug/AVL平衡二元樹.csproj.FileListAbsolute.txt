@@ -1,0 +1,6 @@
+C:\Users\Davis-School\Desktop\AVL平衡二元樹\bin\Debug\AVL平衡二元樹.exe.config
+C:\Users\Davis-School\Desktop\AVL平衡二元樹\bin\Debug\AVL平衡二元樹.exe
+C:\Users\Davis-School\Desktop\AVL平衡二元樹\bin\Debug\AVL平衡二元樹.pdb
+C:\Users\Davis-School\Desktop\AVL平衡二元樹\obj\Debug\AVL平衡二元樹.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Desktop\AVL平衡二元樹\obj\Debug\AVL平衡二元樹.exe
+C:\Users\Davis-School\Desktop\AVL平衡二元樹\obj\Debug\AVL平衡二元樹.pdb

@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\quick_sort\bin\Debug\quick_sort.exe.config
+C:\Users\david\Desktop\quick_sort\bin\Debug\quick_sort.exe
+C:\Users\david\Desktop\quick_sort\bin\Debug\quick_sort.pdb
+C:\Users\david\Desktop\quick_sort\obj\Debug\quick_sort.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\quick_sort\obj\Debug\quick_sort.exe
+C:\Users\david\Desktop\quick_sort\obj\Debug\quick_sort.pdb
+C:\Users\Davis-School\Documents\GitHub\Aha-Algorithm\ch1 sort\quick_sort1\bin\Debug\quick_sort.exe.config
+C:\Users\Davis-School\Documents\GitHub\Aha-Algorithm\ch1 sort\quick_sort1\bin\Debug\quick_sort.exe
+C:\Users\Davis-School\Documents\GitHub\Aha-Algorithm\ch1 sort\quick_sort1\bin\Debug\quick_sort.pdb
+C:\Users\Davis-School\Documents\GitHub\Aha-Algorithm\ch1 sort\quick_sort1\obj\Debug\quick_sort.csprojResolveAssemblyReference.cache
+C:\Users\Davis-School\Documents\GitHub\Aha-Algorithm\ch1 sort\quick_sort1\obj\Debug\quick_sort.exe
+C:\Users\Davis-School\Documents\GitHub\Aha-Algorithm\ch1 sort\quick_sort1\obj\Debug\quick_sort.pdb
